@@ -1,0 +1,18 @@
+{
+  "name": "DynamoDbProject",
+  "version": "1.0.0",
+  "description": "Create New Database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Omar Sultanov",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1064.0",
+    "body-parser": "^1.19.1",
+    "dotenv": "^14.3.2",
+    "express": "^4.17.2",
+    "uuid": "^8.3.2"
+  }
+}
